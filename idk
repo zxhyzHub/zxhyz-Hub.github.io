@@ -5,7 +5,7 @@
 -- Configuration
 local CONFIG = {
     -- Your actual main script URL (the script that runs after key validation)
-    MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/zxhyzHub/zxhyz-Hub.github.io/0b2ed98f24c19bab1e7fe201af38003dc76c6ca1/main-script.lua",
+    MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/zxhyzHub/zxhyz-Hub.github.io/refs/heads/main/idk",
     
     -- Your key link
     KEY_LINK = "https://direct-link.net/1358375/kuLA6Xu5lyNQ",
